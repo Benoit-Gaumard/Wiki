@@ -2,7 +2,7 @@
 title: git-tips
 description: 
 published: true
-date: 2023-08-21T12:17:41.288Z
+date: 2023-08-21T12:19:20.934Z
 tags: git
 editor: markdown
 dateCreated: 2023-08-21T11:59:51.059Z
@@ -102,7 +102,7 @@ git checkout -b feat-azure-functions
 Delete branch (Local):
 
 ```bash
-git branch -d feat-add-pricesheet-script (delete local branch)
+git branch -d my-branch
 ```
 
 Delete branch (Remote):
