@@ -1,5 +1,18 @@
+---
+title: template-page
+description: 
+published: true
+date: 2023-08-21T09:29:02.280Z
+tags: 
+editor: markdown
+dateCreated: 2023-08-18T08:59:24.948Z
+---
+
 # Header
 Your content here ok
+
+Emojis :smile:
+https://www.webfx.com/tools/emoji-cheat-sheet/
 
 > This documentation site is running on Wiki.js!
 {.is-success}
