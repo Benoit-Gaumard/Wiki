@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-08-21T07:51:01.478Z
+date: 2023-08-21T07:53:26.271Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -17,10 +17,13 @@ This list contains anything that can help with your Microsoft Azure architecture
 # Table Of Contents
 
 ## :globe_with_meridians: New To Check
+dfgdfg
 
 ## :globe_with_meridians: Certifications
+dfgdfg
 
 ## :globe_with_meridians: FinOps
+dfgdfgdfg
 
 ## :globe_with_meridians: Informations
 
