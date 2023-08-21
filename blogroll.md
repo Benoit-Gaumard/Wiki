@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-08-21T08:09:12.463Z
+date: 2023-08-21T08:11:07.333Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
