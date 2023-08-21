@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-08-21T12:25:32.690Z
+date: 2023-08-21T17:27:38.051Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -260,6 +260,8 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [Azure Cost Management Dashboard](https://github.com/sairashaik6677/azure-costmanagement-dashboard)
 - [Cloud Roles and Operations Management DashBoard](https://github.com/Azure/cloud-rolesandops)
 - [Azure Service Retirement Workbook](https://learn.microsoft.com/en-us/azure/advisor/advisor-how-to-plan-migration-workloads-service-retirement)
+- [Azure Inventory Workbook](https://github.com/scautomation/Azure-Inventory-Workbook
+) :fire:
 
 ## :octocat: GitHub
 
