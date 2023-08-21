@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-08-21T08:28:27.966Z
+date: 2023-08-21T12:25:32.690Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -365,6 +365,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [Depix is a tool for recovering passwords from pixelized screenshots](https://github.com/beurtschipper/Depix)
 - [Snoop](https://github.com/snooppr/snoop/blob/master/README.fr.md)
 - [Get Azure bearer token](https://resources.azure.com/api/token?plaintext=true)
+- [Arachni Web application security scanner](https://www.arachni-scanner.com)
 
 ## :technologist: Terraform
 
