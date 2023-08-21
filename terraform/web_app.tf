@@ -64,8 +64,13 @@ resource "azurerm_linux_web_app" "webapp" {
     application_stack {
       docker_registry_url      = "https://index.docker.io" #"https://hub.docker.com/"
       docker_image_name        = "requarks/wiki:latest"
+<<<<<<< HEAD
       docker_registry_username = "****"
       docker_registry_password = "****"
+=======
+      docker_registry_username = "proxi"
+      docker_registry_password = "test123$"
+>>>>>>> 793b66d552a27f163632a6133f79972e113615ec
     }
 
   }
