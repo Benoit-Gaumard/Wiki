@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-08-21T08:12:48.272Z
+date: 2023-08-21T08:14:02.039Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -17,7 +17,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 ## Table Of Contents
 - [New To Check](#new-to-check)
 - [Certifications](#globe_with_meridians-certifications)
-- [FinOps](#finops)
+- [FinOps](#dollar-finops)
 
 ## New To Check
 [Back To Top](#table-of-contents)
@@ -35,7 +35,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 - [Practice Assessments for Microsoft Certifications 2](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/prep-for-certification-exams-with-free-practice-assessments-on/ba-p/3666866)
 
-## FinOps
+## :dollar: FinOps
 [Back To Top](#table-of-contents)
 
 - [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
