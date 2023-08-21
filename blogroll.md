@@ -2,41 +2,43 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-08-16T13:31:12.679Z
+date: 2023-08-21T07:49:28.984Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
 ---
 
-# Header
-Your content here
-
-> This documentation site is running on Wiki.js!
-{.is-success}
-
-Wiki.js requires one of the many [supported database engines](https://github.com/Benoit-Gaumard/BlogRoll).
-
-
-> test
-{.is-danger}
-
-:link:
-
-
-
-```powershell
-port: 3000
-$test
-```
-
-# Header
-Your content here
+# BlogRoll
 
 A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 
 This list contains anything that can help with your Microsoft Azure architecture and quickly get you up and running when designing, planning, and implementing services that empower organisations around the planet to achieve more.
 
 # Table Of Contents
+
+## :globe_with_meridians: New To Check
+
+## :globe_with_meridians: Certifications
+
+## :globe_with_meridians: FinOps
+
+## :globe_with_meridians: Informations
+
+## :globe_with_meridians: Services
+
+## :globe_with_meridians: Policies
+
+## :globe_with_meridians: Cloud Services Comparison
+
+## :globe_with_meridians: DevOps
+
+## :globe_with_meridians: Azure Active Directory (Entra Id)
+
+## :globe_with_meridians: Misc
+
+## :globe_with_meridians: Sustainability
+
+## :globe_with_meridians: HA and DR
 
 ## Modules
 Modules greatly expand the capabilities of your wiki.
