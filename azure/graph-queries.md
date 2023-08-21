@@ -2,7 +2,7 @@
 title: Graph queries
 description: A collection of Azure Graph Queries
 published: true
-date: 2023-08-21T07:40:11.803Z
+date: 2023-08-21T07:40:36.455Z
 tags: azure
 editor: markdown
 dateCreated: 2023-08-21T07:39:10.094Z
