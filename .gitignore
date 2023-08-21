@@ -1,0 +1,45 @@
+# Ignore Local .terraform directories
+**/.terraform/*
+terraform.exe
+.terraform
+
+# Ignore .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Ignore .tfvars files, which are likely to contain sentitive data
+*.tfvars
+*.tfvars.json
+
+# Ignore override files as they are usually used to override resources locally and so
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Ignore CLI configuration files
+.terraformrc
+terraform.rc
+
+# Ignore Log files
+crash.logs
+*.log
+
+# Ignore tools that are used only on local
+**/debug/*
+
+# Ignore vscode files
+**/.vscode/*
+
+# Terraform lock files
+**/plan
+**/plan.out
+**/.terraform.lock.hcl
+.terraform.lock.hcl
+*terraform*.plan
+*PesterExecution*
+
+# Others
+*old*
+*/old
+backend.tf
