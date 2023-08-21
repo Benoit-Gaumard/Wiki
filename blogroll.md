@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-08-21T08:04:01.605Z
+date: 2023-08-21T08:06:28.263Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -15,11 +15,11 @@ A curated list of blogs, videos, tutorials, code, tools & scripts, related to th
 This list contains anything that can help with your Microsoft Azure architecture and quickly get you up and running when designing, planning, and implementing services that empower organisations around the planet to achieve more.
 
 ## Table Of Contents
-- [New To Check](#globe_with_meridians-new-to-check)
+- [New To Check](#new-to-check)
 - [Certifications](#globe_with_meridians-certifications)
-- [FinOps](#globe_with_meridians-finops)
+- [FinOps](#finops)
 
-## :globe_with_meridians: New To Check
+## New To Check
 [Back To Top](#table-of-contents)
 
 - [Azure Deployment Environments](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-azure-deployment-environments/ba-p/3412095)
@@ -35,7 +35,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 - [Practice Assessments for Microsoft Certifications 2](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/prep-for-certification-exams-with-free-practice-assessments-on/ba-p/3666866)
 
-## :globe_with_meridians: FinOps
+## FinOps
 [Back To Top](#table-of-contents)
 
 - [Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
