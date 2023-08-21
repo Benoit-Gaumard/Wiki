@@ -2,7 +2,7 @@
 title: terraform-tips
 description: 
 published: true
-date: 2023-08-21T12:50:36.692Z
+date: 2023-08-21T13:05:07.682Z
 tags: terraform
 editor: markdown
 dateCreated: 2023-08-21T12:02:05.520Z
@@ -33,3 +33,5 @@ terraform apply -var-file= "terraform.tfvars"
 Terraform version repository: 
 
 https://developer.hashicorp.com/terraform/downloads
+
+https://releases.hashicorp.com/terraform/
