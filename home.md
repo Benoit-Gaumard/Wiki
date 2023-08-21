@@ -1,8 +1,8 @@
 ---
-title: Welcome :globe_with_meridians:
+title: Welcome
 description: Test
 published: true
-date: 2023-08-21T09:06:35.993Z
+date: 2023-08-21T09:07:09.712Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T12:48:35.503Z
