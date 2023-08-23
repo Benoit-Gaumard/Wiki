@@ -2,7 +2,7 @@
 title: terraform-tips
 description: 
 published: true
-date: 2023-08-21T13:05:07.682Z
+date: 2023-08-23T15:30:57.282Z
 tags: terraform
 editor: markdown
 dateCreated: 2023-08-21T12:02:05.520Z
@@ -27,7 +27,13 @@ terraform init -upgrade
 Apply a configruation file tfvars:
 
 ```bash
-terraform apply -var-file= "terraform.tfvars"
+terraform apply -var-file="terraform.tfvars"
+```
+
+Auto Approve:
+
+```bash
+terraform apply -auto-approve
 ```
 
 Terraform version repository: 
