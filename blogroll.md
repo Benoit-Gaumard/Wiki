@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-08-21T17:27:38.051Z
+date: 2023-08-24T13:10:22.844Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -118,6 +118,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [awesome-french-devops](https://github.com/stephrobert/awesome-french-devops/)
 - [Stéphane Robert Blog](https://blog.stephane-robert.info/)
 - [Secret scanning in Azure DevOps](https://johnlokerse.dev/2023/05/24/secret-scanning-in-azure-devops-with-defender-for-devops/)
+- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 
 ## :globe_with_meridians: Azure Active Directory (Entra Id)
 [Back To Top](#table-of-contents)
