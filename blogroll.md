@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-08-31T06:49:25.410Z
+date: 2023-08-31T08:16:57.219Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -445,6 +445,13 @@ This list contains anything that can help with your Microsoft Azure architecture
 [Back To Top](#table-of-contents)
 
 - [Goodtechthings.com](https://www.goodtechthings.com/)
+
+
+## Youtube
+
+[Back To Top](#table-of-contents)
+
+- [Théorie en 10mn - Interconnexion de Microsoft Azure avec le monde extérieur](https://www.youtube.com/watch?v=xNRI2hScrcw)
 
 ## Modules
 Modules greatly expand the capabilities of your wiki.
