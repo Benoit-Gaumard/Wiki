@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-08-24T13:10:22.844Z
+date: 2023-08-31T06:49:25.410Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -158,6 +158,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [Azure Geographies and regions](https://azure.microsoft.com/en-us/global-infrastructure/geographies/)
 - [Azure cross regions replication](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure)
 - [Azure regions and availability zones](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones)
+-	[Azure Business Continuity Guide](https://github.com/Azure/BusinessContinuityGuide/releases)
 
 ## :notebook: Portals
 
