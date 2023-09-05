@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-08-31T08:16:57.219Z
+date: 2023-09-05T08:35:52.273Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -23,6 +23,9 @@ This list contains anything that can help with your Microsoft Azure architecture
 [Back To Top](#table-of-contents)
 
 - [Azure Deployment Environments](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-azure-deployment-environments/ba-p/3412095)
+
+- [Azure Deployment Environments](
+https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/azure-opensource-labs/)
 
 ## :globe_with_meridians: Certifications
 [Back To Top](#table-of-contents)
