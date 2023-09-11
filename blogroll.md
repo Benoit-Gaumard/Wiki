@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-09-05T08:36:31.605Z
+date: 2023-09-11T11:57:11.301Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -26,6 +26,8 @@ This list contains anything that can help with your Microsoft Azure architecture
 
 - [Azure Open Source Labs](
 https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/azure-opensource-labs/)
+
+- [Azure Firewall Mon](https://github.com/nicolgit/azure-firewall-mon) :fire:
 
 ## :globe_with_meridians: Certifications
 [Back To Top](#table-of-contents)
