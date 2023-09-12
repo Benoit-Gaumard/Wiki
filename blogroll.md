@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-09-12T12:54:50.896Z
+date: 2023-09-12T12:57:42.247Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -349,6 +349,7 @@ https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/az
 - [Log Analytics cost](https://trstringer.com/log-analytics-expensive-part-1-discovery/)
 - [azure-monitoring-certificates](https://blog.smartcloudarchitect.fr/azure-monitoring-certificates)
 - [Query collection](https://github.com/globalbao/azure-resource-graph)
+- [Azure Monitor Logs table reference](https://learn.microsoft.com/en-us/azure/azure-monitor/reference/tables/tables-category)
 
 ## :ninja: Security
 
