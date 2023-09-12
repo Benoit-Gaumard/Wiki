@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-09-11T11:57:11.301Z
+date: 2023-09-12T12:54:50.896Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -55,6 +55,7 @@ https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/az
 - [The Azure FinOps guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132) :fire:
 - [Azure Cost Cli](https://github.com/mivano/azure-cost-cli) :fire:
 - [FinOps whitepaper](https://azure.microsoft.com/en-us/resources/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment/)
+- [What causes Azure costs to increase](https://www.serverless360.com/blog/what-causes-azure-costs-to-increase)
 
 ## :globe_with_meridians: Informations
 [Back To Top](#table-of-contents)
@@ -210,6 +211,7 @@ https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/az
 - [Azure Landing Zone catalog](https://github.com/oliverlabs/alz-catalogue)
 - [Azure Talk Blog](https://blog.zuehlke.cloud/)
 - [Achraf Ben Alaya](https://achrafbenalaya.com/)
+- [Azure Docs for partners](https://msazureforpartners.azurewebsites.net/)
 
 ## :fire_engine: Support
 
@@ -375,6 +377,7 @@ https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/az
 - [Snoop](https://github.com/snooppr/snoop/blob/master/README.fr.md)
 - [Get Azure bearer token](https://resources.azure.com/api/token?plaintext=true)
 - [Arachni Web application security scanner](https://www.arachni-scanner.com)
+- [OSINT web-check](https://github.com/Lissy93/web-check)
 
 ## :technologist: Terraform
 
