@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-09-18T20:19:17.976Z
+date: 2023-09-20T13:18:45.525Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -32,6 +32,8 @@ https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/az
 - [Hack The Box](https://www.hackthebox.com/)
 
 - [Root Me](https://www.root-me.org/)
+
+- [Code Error](https://login.microsoftonline.com/error)
 
 ## :globe_with_meridians: Certifications
 [Back To Top](#table-of-contents)
@@ -103,6 +105,9 @@ https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/az
 - [Azure Diagnostics Policy Generator](https://github.com/JimGBritt/AzurePolicy/tree/master/AzureMonitor/Scripts)
 - [Configure centralized policy management](https://www.cloudpartner.fi/?p=7015)
 - [Policies Aliases List](https://policyalias.mats.codes/)
+- [Terraform policies as code](https://purple.telstra.com/blog/azure-policy-as-code-with-terraform-part-1) :fire:
+- [Terraform policies as code repo](https://github.com/globalbao/azure-policy-as-code/tree/main) :fire:
+
 
 ## :globe_with_meridians: Cloud Services Comparison
 [Back To Top](#table-of-contents)
