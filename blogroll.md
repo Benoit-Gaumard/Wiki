@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-09-20T13:20:26.982Z
+date: 2023-09-20T13:22:12.708Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -465,12 +465,20 @@ https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/az
 
 - [Goodtechthings.com](https://www.goodtechthings.com/)
 
-
 ## Youtube
 
 [Back To Top](#table-of-contents)
 
 - [Théorie en 10mn - Interconnexion de Microsoft Azure avec le monde extérieur](https://www.youtube.com/watch?v=xNRI2hScrcw)
+
+## Wiki JS
+
+[Back To Top](#table-of-contents)
+
+- [Deploy Wiki JS Azure WebApp](https://blog.devops.dev/100-automated-wiki-deployment-with-terraform-using-microsoft-azure-app-service-docker-based-and-9274e6848181)
+
+- [Deploy Wiki JS Azure WebApp 2](https://medium.com/@ivantrevino/100-managed-wiki-deployment-using-microsoft-azure-app-service-docker-based-and-azure-database-871a6abe8a6c)
+
 
 ## Modules
 Modules greatly expand the capabilities of your wiki.
