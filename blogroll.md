@@ -2,7 +2,7 @@
 title: BlogRoll
 description: A curated list of blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 published: true
-date: 2023-09-20T13:18:45.525Z
+date: 2023-09-20T13:20:26.982Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -107,6 +107,7 @@ https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/az
 - [Policies Aliases List](https://policyalias.mats.codes/)
 - [Terraform policies as code](https://purple.telstra.com/blog/azure-policy-as-code-with-terraform-part-1) :fire:
 - [Terraform policies as code repo](https://github.com/globalbao/azure-policy-as-code/tree/main) :fire:
+- [CAF Policies](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/eslz-policies) :fire:
 
 
 ## :globe_with_meridians: Cloud Services Comparison
