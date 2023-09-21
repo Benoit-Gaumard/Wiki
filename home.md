@@ -2,7 +2,7 @@
 title: Welcome
 description: Test
 published: true
-date: 2023-09-19T13:51:45.694Z
+date: 2023-09-21T13:41:00.755Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T12:48:35.503Z
@@ -15,8 +15,6 @@ dateCreated: 2023-08-16T12:48:35.503Z
 - 🌱 I’m currently learning Azure, Terraform, Azure DevOps, GitHub, Ansible, Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/benoit-gaumard/), [Twitter](https://twitter.com/bgaumard)
 - ⚡ Fun fact: I love running and workout ...
-
-:fire:
 
 ## Contribution
 
