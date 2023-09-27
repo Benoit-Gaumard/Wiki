@@ -2,7 +2,7 @@
 title: BlogRoll
 description: 
 published: true
-date: 2023-09-27T13:35:01.968Z
+date: 2023-09-27T13:57:48.172Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -22,9 +22,12 @@ This list contains anything that can help with your Microsoft Azure architecture
 ## New To Check
 [Back To Top](#table-of-contents)
 
--[Diagram as code](https://irom.info/blog/2023/09/04/diagrams-as-code)
--[Gain insights into your Azure role assignments on subscription level](https://codewithme.cloud/posts/2023/08/list-azure-role-assignments-with-powershell/)
--[Azure Design Studio](https://github.com/chunliu/AzureDesignStudio)
+- [Diagram as code](https://irom.info/blog/2023/09/04/diagrams-as-code)
+- [Gain insights into your Azure role assignments on subscription level](https://codewithme.cloud/posts/2023/08/list-azure-role-assignments-with-powershell/)
+- [Azure Design Studio](https://github.com/chunliu/AzureDesignStudio)
+- [KQL - threat hunting hub](https://github.com/LearningKijo/KQL)
+- https://kql-search-2.vercel.app/
+- https://www.kqlsearch.com/
 
 
 ## :globe_with_meridians: Certifications
