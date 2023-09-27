@@ -2,7 +2,7 @@
 title: BlogRoll
 description: 
 published: true
-date: 2023-09-27T13:27:59.457Z
+date: 2023-09-27T13:35:01.968Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -21,6 +21,10 @@ This list contains anything that can help with your Microsoft Azure architecture
 
 ## New To Check
 [Back To Top](#table-of-contents)
+
+-[Diagram as code](https://irom.info/blog/2023/09/04/diagrams-as-code)
+-[Gain insights into your Azure role assignments on subscription level](https://codewithme.cloud/posts/2023/08/list-azure-role-assignments-with-powershell/)
+-[Azure Design Studio](https://github.com/chunliu/AzureDesignStudio)
 
 
 ## :globe_with_meridians: Certifications
