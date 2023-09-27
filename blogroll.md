@@ -2,7 +2,7 @@
 title: BlogRoll
 description: 
 published: true
-date: 2023-09-27T13:57:48.172Z
+date: 2023-09-27T14:00:13.593Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -28,6 +28,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [KQL - threat hunting hub](https://github.com/LearningKijo/KQL)
 - https://kql-search-2.vercel.app/
 - https://www.kqlsearch.com/
+- https://techcommunity.microsoft.com/t5/azure-governance-and-management/generally-available-azure-update-manager/ba-p/3928878
 
 
 ## :globe_with_meridians: Certifications
