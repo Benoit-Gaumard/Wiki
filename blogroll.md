@@ -2,7 +2,7 @@
 title: BlogRoll
 description: 
 published: true
-date: 2023-09-21T13:42:31.804Z
+date: 2023-09-27T13:03:44.777Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -22,18 +22,6 @@ This list contains anything that can help with your Microsoft Azure architecture
 ## New To Check
 [Back To Top](#table-of-contents)
 
-- [Azure Deployment Environments](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/introducing-azure-deployment-environments/ba-p/3412095)
-
-- [Azure Open Source Labs](
-https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/azure-opensource-labs/)
-
-- [Azure Firewall Mon](https://github.com/nicolgit/azure-firewall-mon) :fire:
-
-- [Hack The Box](https://www.hackthebox.com/)
-
-- [Root Me](https://www.root-me.org/)
-
-- [Code Error](https://login.microsoftonline.com/error)
 
 ## :globe_with_meridians: Certifications
 [Back To Top](#table-of-contents)
@@ -45,6 +33,7 @@ https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/az
 - [Microsoft learn community](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn)
 - [Practice Assessments for Microsoft Certifications](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 - [Practice Assessments for Microsoft Certifications 2](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/prep-for-certification-exams-with-free-practice-assessments-on/ba-p/3666866)
+- [Azure Open Source Labs](https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/azure-opensource-labs/)
 
 ## :dollar: FinOps
 [Back To Top](#table-of-contents)
@@ -162,6 +151,7 @@ https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/az
 - [Nuage de mots](https://nuagedemots.co/)
 - [Wiki Tech](https://wiki-tech.io/)
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
+- [Code Error](https://login.microsoftonline.com/error)
 
 ## :globe_with_meridians: Sustainability
 [Back To Top](#table-of-contents)
@@ -389,6 +379,8 @@ https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/az
 - [Get Azure bearer token](https://resources.azure.com/api/token?plaintext=true)
 - [Arachni Web application security scanner](https://www.arachni-scanner.com)
 - [OSINT web-check](https://github.com/Lissy93/web-check)
+- [Hack The Box](https://www.hackthebox.com/)
+- [Root Me](https://www.root-me.org/)
 
 ## :construction_worker: Terraform
 
@@ -443,6 +435,7 @@ https://learn.microsoft.com/en-us/samples/azure-samples/azure-opensource-labs/az
 - [Application Gateway of Firewall](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gateway/firewall-application-gateway)
 - [Using Azure Firewall with Web Application behind WAF/Application Gateway?](https://learn.microsoft.com/en-us/answers/questions/774683/using-azure-firewall-with-web-application-behind-w)
 - [Cellenza comment-deployer-une-architecture-hub-and-spoke-avec-azure-firewall](https://blog.cellenza.com/cloud-2/comment-deployer-une-architecture-hub-and-spoke-avec-azure-firewall/)
+- [Azure Firewall Mon](https://github.com/nicolgit/azure-firewall-mon) :fire:
 
 ## :lock: Routing and NVA
 
