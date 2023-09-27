@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2023-09-21T13:41:37.191Z
+date: 2023-09-27T12:57:35.418Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T12:48:35.503Z
@@ -13,7 +13,7 @@ dateCreated: 2023-08-16T12:48:35.503Z
 
 - 🔭 I’m currently working on Azure / Azure Stack / Automation
 - 🌱 I’m currently learning Azure, Terraform, Azure DevOps, GitHub, Ansible, Python
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/benoit-gaumard/), [Twitter](https://twitter.com/bgaumard)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/benoit-gaumard/)
 - ⚡ Fun fact: I love running and workout ...
 
 ## Contribution
