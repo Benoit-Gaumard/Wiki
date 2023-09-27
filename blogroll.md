@@ -2,7 +2,7 @@
 title: BlogRoll
 description: 
 published: true
-date: 2023-09-27T13:03:44.777Z
+date: 2023-09-27T13:27:59.457Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -121,7 +121,6 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [Devops roadmap](https://roadmap.sh/)
 - [The Microsoft Azure Developer's Cheat Sheet](https://github.com/milanm/azure-cheat-sheet)
 - [awesome-french-devops](https://github.com/stephrobert/awesome-french-devops/)
-- [Stéphane Robert Blog](https://blog.stephane-robert.info/)
 - [Secret scanning in Azure DevOps](https://johnlokerse.dev/2023/05/24/secret-scanning-in-azure-devops-with-defender-for-devops/)
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 
