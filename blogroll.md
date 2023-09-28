@@ -2,7 +2,7 @@
 title: BlogRoll
 description: 
 published: true
-date: 2023-09-27T14:09:42.567Z
+date: 2023-09-28T08:19:32.099Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -21,6 +21,22 @@ This list contains anything that can help with your Microsoft Azure architecture
 
 ## New To Check
 [Back To Top](#table-of-contents)
+
+- [Azure Policy Recommended Practices](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-policy-recommended-practices/ba-p/3798024?WT.mc_id=DT-MVP-5001664)
+
+- [Enterprise Azure Policy as Code (EPAC)](https://azure.github.io/enterprise-azure-policy-as-code/)
+
+- [enterprise-azure-policy-as-code](https://github.com/Azure/enterprise-azure-policy-as-code)
+
+- [Azure Enterprise Policy as Code – A New Approach](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-enterprise-policy-as-code-a-new-approach/ba-p/3607843)
+
+- [Infrastructure as Code Testing with Azure Policy](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/infrastructure-as-code-testing-with-azure-policy/ba-p/3921765?WT.mc_id=DT-MVP-5001664)
+
+- [Cost Governance with Azure Policy](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/cost-governance-with-azure-policy/ba-p/3791888?WT.mc_id=DT-MVP-5001664)
+
+- [Enforcing and Managing Azure DDoS Protection with Azure Policy](https://techcommunity.microsoft.com/t5/azure-network-security-blog/enforcing-and-managing-azure-ddos-protection-with-azure-policy/ba-p/3933172?WT.mc_id=DT-MVP-5001664)
+
+- [Azure Policy for Azure Container Apps? Yes, please](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-policy-for-azure-container-apps-yes-please/ba-p/3775200?WT.mc_id=DT-MVP-5001664)
 
 - [Diagram as code](https://irom.info/blog/2023/09/04/diagrams-as-code)
 - [Gain insights into your Azure role assignments on subscription level](https://codewithme.cloud/posts/2023/08/list-azure-role-assignments-with-powershell/)
