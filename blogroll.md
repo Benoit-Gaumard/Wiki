@@ -2,7 +2,7 @@
 title: BlogRoll
 description: 
 published: true
-date: 2023-09-28T09:19:24.751Z
+date: 2023-10-04T16:06:40.668Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -147,6 +147,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [awesome-french-devops](https://github.com/stephrobert/awesome-french-devops/)
 - [Secret scanning in Azure DevOps](https://johnlokerse.dev/2023/05/24/secret-scanning-in-azure-devops-with-defender-for-devops/)
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+- [https://www.conventionalcommits.org/](https://www.conventionalcommits.org/)
 
 ## :globe_with_meridians: Azure Active Directory (Entra Id)
 [Back To Top](#table-of-contents)
