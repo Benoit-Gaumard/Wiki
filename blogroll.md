@@ -2,7 +2,7 @@
 title: BlogRoll
 description: 
 published: true
-date: 2023-10-04T16:06:40.668Z
+date: 2023-10-09T08:49:10.873Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -121,6 +121,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [Terraform policies as code](https://purple.telstra.com/blog/azure-policy-as-code-with-terraform-part-1) :fire:
 - [Terraform policies as code repo](https://github.com/globalbao/azure-policy-as-code/tree/main) :fire:
 - [CAF Policies](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/eslz-policies) :fire:
+- https://blog.tyang.org/2023/09/30/natively0monitoring-azure-policy-compliance-states-in-azure-monitor-2023-edition/
 
 
 ## :globe_with_meridians: Cloud Services Comparison
@@ -374,6 +375,7 @@ This list contains anything that can help with your Microsoft Azure architecture
 - [azure-monitoring-certificates](https://blog.smartcloudarchitect.fr/azure-monitoring-certificates)
 - [Query collection](https://github.com/globalbao/azure-resource-graph)
 - [Azure Monitor Logs table reference](https://learn.microsoft.com/en-us/azure/azure-monitor/reference/tables/tables-category)
+- https://techcommunity.microsoft.com/t5/azure-governance-and-management/azure-monitor-baseline-alerts-amba-for-azure-landing-zone-alz-is/ba-p/3936951
 
 ## :radioactive: Security
 
