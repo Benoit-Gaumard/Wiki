@@ -2,7 +2,7 @@
 title: BlogRoll
 description: 
 published: true
-date: 2023-10-09T08:49:10.873Z
+date: 2023-11-02T14:11:49.271Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-16T13:11:14.791Z
@@ -45,7 +45,13 @@ This list contains anything that can help with your Microsoft Azure architecture
 - https://kql-search-2.vercel.app/
 - https://www.kqlsearch.com/
 - https://techcommunity.microsoft.com/t5/azure-governance-and-management/generally-available-azure-update-manager/ba-p/3928878
-
+- https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-start-guide-to-azure-private-endpoints-with-aks-amp/ba-p/3943803
+- https://arcanecode.com/2020/12/14/iterate-over-a-hashtable-in-powershell/
+- https://jeffbrown.tech/azure-policy-resource-lock/
+- https://github.com/DonKoning/megaLinter/tree/main
+- https://github.com/WinOpsDBA/DBAinTheCloud/tree/master/06-vm-extensions
+- https://techcommunity.microsoft.com/t5/azure-governance-and-management/announcing-authorizationresources-in-azure-resource-graph/ba-p/3813912?WT.mc_id=DT-MVP-5001664
+- https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/infrastructure-as-code-testing-with-azure-policy/ba-p/3921765
 
 ## :globe_with_meridians: Certifications
 [Back To Top](#table-of-contents)
