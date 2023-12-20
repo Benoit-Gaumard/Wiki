@@ -16,7 +16,7 @@ variable "postgresql_admin_name" {
 }
 
 variable "postgresql_admin_password" {
-  default     = "Admin123456!"
+  default     = ""
   description = "Password of the PostgreSQL Server Admin."
 }
 
